@@ -8,7 +8,7 @@
 [Transaction Explorer](https://explorer.testnet.near.org/transactions/7TJAM5q6L98NyKynoXK3PWTSn171XX2dnjZ9eNYj8Aro)
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/SouL-H/Near-Deploying/main/screenShot/dev-deploy.jpeg"  alt="Observer">
+    <img src="https://raw.githubusercontent.com/SouL-H/Near-Developer-Course/main/Pratice-1/img/task1.png"  alt="Observer">
 
 </p>
 
@@ -17,7 +17,7 @@
 [Transaction Explorer](https://explorer.testnet.near.org/transactions/JBt7B5hkV7aGE6hCxZ83PRCwYJAi1YUgkdfaC1LwW6y3)
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/SouL-H/Near-Deploying/main/screenShot/dev-deploy.jpeg"  alt="Observer">
+    <img src="https://raw.githubusercontent.com/SouL-H/Near-Developer-Course/main/Pratice-1/img/task2.png"  alt="Observer">
 
 </p>
 
@@ -26,7 +26,7 @@
 [Transaction Explorer](https://explorer.testnet.near.org/transactions/CWxkdWRcxYCU5BYq9AjptL946aG5HwTrCMdDHc3eKzpv)
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/SouL-H/Near-Deploying/main/screenShot/dev-deploy.jpeg"  alt="Observer">
+    <img src="https://raw.githubusercontent.com/SouL-H/Near-Developer-Course/main/Pratice-1/img/task3.png"  alt="Observer">
 
 </p>
 
