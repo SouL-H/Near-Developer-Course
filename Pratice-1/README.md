@@ -30,6 +30,14 @@
 
 </p>
 
+## Task-4
+
+[Transaction Explorer](https://explorer.testnet.near.org/transactions/EC51ofpyoHHNHhwLvCx82ozWG7F1uA4JjhhvhBjkMjyB)
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/SouL-H/Near-Developer-Course/main/Pratice-1/img/task3.png"  alt="Observer">
+
+</p>
 ## Account
 ```
 
