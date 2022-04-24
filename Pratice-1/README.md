@@ -40,7 +40,9 @@
     <img src="https://raw.githubusercontent.com/SouL-H/Near-Developer-Course/main/Pratice-1/img/task4.png"  alt="Observer">
 
 </p>
+
 ## Account
+
 ```
 
 tech10.testnet
