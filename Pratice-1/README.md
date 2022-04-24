@@ -1,6 +1,8 @@
 # Near Developer Course Pratice-I
 
+## Near-Acedemy-Certificate
 
+[embed]https://github.com/SouL-H/Near-Developer-Course/blob/main/certificate/a4.pdf[/embed]
 
 
 ## Task-1
