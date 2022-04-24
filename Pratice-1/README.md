@@ -2,7 +2,7 @@
 
 ## Near-Acedemy-Certificate
 
-[embed]https://github.com/SouL-H/Near-Developer-Course/blob/main/certificate/a4.pdf[/embed]
+[Show Certificate](https://github.com/SouL-H/Near-Developer-Course/blob/main/certificate/a4.pdf)
 
 
 ## Task-1
